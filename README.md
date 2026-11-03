@@ -22,7 +22,7 @@ This environment is hosted locally within a 7-node VMware Workstation enterprise
 
 ## 📸 Proof of Concept
 *(Add your screenshots here)*
-1.  `[Screenshot 1: Kali terminal showing the Hydra attack]` - **Attack Execution**
+1.  `![Kali Hyrda Attack](Hydra-Attack.png)` - **Attack Execution**
 2.  `[Screenshot 2: Wazuh dashboard showing the Level 10 alert]` - **SIEM Detection**
 3.  `[Screenshot 3: Nano editor showing the Python webhook script]` - **API Orchestration**
 4.  `[Screenshot 4: Jira Service Management ticket with SLA timer]` - **ITSM Ticket Generation**
