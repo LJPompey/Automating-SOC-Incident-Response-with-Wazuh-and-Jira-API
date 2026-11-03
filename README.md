@@ -24,11 +24,10 @@ This environment is hosted locally within a 7-node VMware Workstation enterprise
 1. **Attack Execution**
    ![Kali Hyrda Attack](Hydra-Attack.png)
 2. **API Integration**
-   ![Python Hook/API Integration](PythonHook.png)
+   ![Python Hook/API Integration](Python-Hook.png)
 3. **ITSM Ticket Generation**
-  ![Screenshot 3: Nano editor showing the Python webhook script]
+  ![Jira Critical SLA](Jira-Ticket-Generation.png)
  
 
 ## 💻 The Integration Script
 The custom Python webhook developed for this pipeline utilizes Atlassian Document Format (ADF) to properly structure the raw log data into the Jira ticket description block. 
-*(Link to your custom-jira.py file in the repository)*
