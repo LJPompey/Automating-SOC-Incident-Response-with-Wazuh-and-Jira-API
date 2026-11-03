@@ -21,11 +21,13 @@ This environment is hosted locally within a 7-node VMware Workstation enterprise
 5.  **SLA Enforcement:** A high-priority Incident ticket is instantly generated in Jira with a 15-minute Time-to-First-Response SLA, delivering the raw log context directly to the SOC analyst.
 
 ## 📸 Proof of Concept
-*(Add your screenshots here)*
-1.  `![Kali Hyrda Attack](Hydra-Attack.png)` - **Attack Execution**
-2.  `[Screenshot 2: Wazuh dashboard showing the Level 10 alert]` - **SIEM Detection**
-3.  `[Screenshot 3: Nano editor showing the Python webhook script]` - **API Orchestration**
-4.  `[Screenshot 4: Jira Service Management ticket with SLA timer]` - **ITSM Ticket Generation**
+1. **Attack Execution**
+   ![Kali Hyrda Attack](Hydra-Attack.png)
+2. **API Integration**
+   ![Python Hook/API Integration](PythonHook.png)
+3. **ITSM Ticket Generation**
+  ![Screenshot 3: Nano editor showing the Python webhook script]
+ 
 
 ## 💻 The Integration Script
 The custom Python webhook developed for this pipeline utilizes Atlassian Document Format (ADF) to properly structure the raw log data into the Jira ticket description block. 
