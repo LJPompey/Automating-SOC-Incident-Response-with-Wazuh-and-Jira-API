@@ -30,5 +30,5 @@ This environment is hosted locally within a 7-node VMware Workstation enterprise
  
 
 ## 💻 The Integration Script
-The custom Python webhook developed for this pipeline utilizes Atlassian Document Format (ADF) to properly structure the raw log data into the Jira ticket description block. 
+The custom Python webhook developed for this pipeline utilizes Atlassian Document Format (ADF) to properly structure the raw log data into the Jira ticket description block.
 [View the custom-jira.py integration script here](./custom-jira.py)
