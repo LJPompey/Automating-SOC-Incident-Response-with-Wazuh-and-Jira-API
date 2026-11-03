@@ -3,6 +3,8 @@
 ## 📌 Overview
 This project demonstrates a high-fidelity, locally hosted Security Operations Center (SOC) automation pipeline. By integrating a Wazuh SIEM with Jira Service Management via a custom Python webhook, this architecture automatically detects malicious endpoint activity and orchestrates immediate incident ticket creation, complete with 15-minute Critical SLA tracking aligned with ITIL principles.
 
+[Read the Documentation on Medium](https://medium.com/@pompey.lamont01/automating-soc-incident-response-with-wazuh-and-jira-api-c96aac191fed?sharedUserId=pompey.lamont01)
+
 ## 🏗️ Architecture & Infrastructure
 This environment is hosted locally within a 7-node VMware Workstation enterprise lab (`Project X`). 
 
