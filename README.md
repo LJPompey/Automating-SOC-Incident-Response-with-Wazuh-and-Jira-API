@@ -1,0 +1,2 @@
+# Automating-SOC-Incident-Response-with-Wazuh-and-Jira-API
+This project demonstrates a high-fidelity, locally hosted SOC automation pipeline. By integrating a Wazuh SIEM with Jira via a custom Python webhook, this architecture automatically detects malicious endpoint activity and orchestrates immediate incident ticket creation, complete with 15-minute Critical SLA tracking aligned with ITIL principles.
